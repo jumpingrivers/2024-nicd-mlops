@@ -9,8 +9,9 @@ The workshop slot is 1 hour 30 minutes.
 
 ## Slides
 
-The slides can be viewed at URL. Alternatively, you can open the **index.html**
-file in a web browser.
+The slides can be viewed at
+[bit.ly/2024-nicd-mlops](https://bit.ly/2024-nicd-mlops). Alternatively, you can
+open the **index.html** file in a web browser.
 
 ## Exercises
 
