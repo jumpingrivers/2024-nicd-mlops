@@ -20,9 +20,14 @@ questions and solutions.
 
 ## R dependencies
 
+- ggplot2
+- httr
+- jsonlite
+- kknn
 - palmerpenguins
-- tidymodels
-- vetiver
 - pins
 - plumber
+- tidymodels
+- tidyr
+- vetiver
 
